@@ -6,8 +6,8 @@ Finally, by carrying the algorithm model on the web for visualization, users can
 
 
 
-![image-20211220203821018](/Users/wujinyao/desktop/ImgCaption/image-20211220203821018.png)
+![image-20211220203821018](image-20211220203821018.png)
 
 
 
-![image-20211220203959161](/Users/wujinyao/desktop/ImgCaption/image-20211220203959161.png)
+![image-20211220203959161](image-20211220203959161.png)
